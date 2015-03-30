@@ -1,0 +1,15 @@
+{
+  "name": "groups_ios",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "component-emitter": "^1.2.0",
+    "event-emitter": "^0.3.3",
+    "flux": "^2.0.1",
+    "keymirror": "^0.1.1",
+    "react-native": "^0.3.1"
+  }
+}
